@@ -2,7 +2,7 @@
 
 echo "Installing requirements for you..."
 echo "----------------------------------"
-echo $(pip install -r requirements.txt)
+echo $(pip3 install -r requirements.txt)
 echo ""
 sleep 2
 echo "----------------------------------"
