@@ -17,6 +17,11 @@
 Feel free to download this app from releases page
 <br>Download: [V2Paste-1.2](https://github.com/Kourva/V2Paste/releases/tag/v3.0.0)
 
+### ▍NEW COPY
+This is repo from GitHub to
+ActiveState Project
+(https://platform.activestate.com/victorgeel-org/V2rayDoprax-runtime
+
 ### ▍Idea
 So this app works online with public APIs. if you have any idea to add let me know in [Issues](https://github.com/Kourva/V2Paste/issues).
 
